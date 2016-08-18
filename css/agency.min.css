@@ -3,6 +3,12 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+ 
+ .carousel-control {
+  padding-top:10%;
+  width:5%;
+}
+ 
  .btn-primary.active,
  .btn-primary:active,
  .btn-xl.active,
