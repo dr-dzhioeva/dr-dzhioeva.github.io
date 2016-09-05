@@ -144,7 +144,7 @@
  }
  .navbar-custom .nav li a{
  	font-weight:bold;
- 	letter-spacing:2px
+ 	letter-spacing:1px
  }
  .navbar-custom .nav li a:focus,
  .navbar-custom .nav li a:hover{
@@ -162,7 +162,7 @@
  }
  
  .navbar-custom.affix{
- 	background-color:#737373;
+ 	background-color:#bfbfbf;
  	padding:10px 0;
  	opacity: 0.98;
  }
@@ -273,7 +273,7 @@
   left: 50%;
   width: 2px;
   height: 100%;
-  background: #eee;
+  background: #fff;
   margin-left: -1px;
 }
 
@@ -282,9 +282,9 @@
   clear: both;
   float: left;
   width: 360px;
-  background: #fafafa;
+  background: #fff;
   padding: 20px;
-  border: 1px solid #eee;
+  border: 1px solid #fff;
   margin: -150px 0 0;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
@@ -302,7 +302,7 @@
   top: 50%;
   width: 50px;
   height: 1px;
-  background: #eee;
+  background: #fff;
   -webkit-transition: .2s;
      -moz-transition: .2s;
           transition: .2s;
@@ -378,7 +378,7 @@
   display: inline-block;
   background: #fafafa;
   padding: 6px 12px;
-  border: 1px solid #eee;
+  border: 2px solid #fff;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
@@ -410,7 +410,7 @@
 
 .timeline > li.year:hover,
 .timeline > li.year.top:hover {
-  border-color: #eee;
+  border-color: #fff;
   -webkit-box-shadow: none;
      -moz-box-shadow: none;
           box-shadow: none;
