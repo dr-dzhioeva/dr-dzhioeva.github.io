@@ -570,7 +570,7 @@
 }
 
 
-.timeline>li{margin-bottom:200px;min-height:100px}
+.timeline>li{margin-bottom:100px;min-height:100px}
  
  @media (min-width:768px){
  .timeline:before{left:50%}
