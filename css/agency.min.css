@@ -48,7 +48,9 @@
  }
  
  .img-centered{margin:0 auto}
- .bg-light-gray{background-color:#eee}.bg-darkest-gray{background-color:#222}.btn-primary{color:#fff;background-color:#0073EE;border-color:#0073EE}
+ .bg-light-gray{background-color:#eee}
+ .bg-darkest-gray{background-color:#222}
+ .btn-primary{color:#fff;background-color:#0073EE;border-color:#0073EE}
  
  .btn-primary.active,
  .btn-primary:active,
@@ -105,7 +107,7 @@
  }
  
  .navbar-custom{
- 	background-color:#222;
+ 	background-color:#bfbfbf;
  	border-color:transparent
  }
  .navbar-custom .navbar-brand{
